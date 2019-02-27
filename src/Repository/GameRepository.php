@@ -1,5 +1,4 @@
 <?php
-
 require __DIR__ . "/../Entity/Game.php";
 require __DIR__ . "/../Entity/Rating.php";
 

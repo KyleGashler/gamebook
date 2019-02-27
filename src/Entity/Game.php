@@ -1,7 +1,5 @@
 <?php
-
 class Game {
-
    protected $title;
    protected $imagePath;
    protected $ratings;
